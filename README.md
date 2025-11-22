@@ -57,7 +57,8 @@ If you prefer to install from source:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Maheshmali1/code-connoisseur
+   git clone [https://github.com/Nilesh232001/code-connoisseur--AI-tool.git]
+)
    cd code-connoisseur
    ```
 
@@ -248,5 +249,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.#   c o d e - c o n n o i s s e u r - - A I - t o o l  
+This project is licensed under the MIT License - see the LICENSE file for details.#   c o d e - c o n n o i s s e u r - - A I - t o o l 
+ 
  
