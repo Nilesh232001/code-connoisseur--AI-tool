@@ -27,11 +27,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NileshPatil/code-connoisseur.git"
+    "url": "git+https://github.com/Nilesh232001/code-connoisseur--AI-tool.git"
   },
-  "homepage": "https://github.com/NileshPati/code-connoisseur#readme",
+  "homepage": "https://github.com/Nilesh232001/code-connoisseur--AI-tool.git",
   "bugs": {
-    "url": "https://github.com/NileshPatil/code-connoisseur/issues"
+    "url": "https://github.com/Nilesh232001/code-connoisseur--AI-tool.git"
   },
   "dependencies": {
     "@langchain/anthropic": "^0.3.15",
