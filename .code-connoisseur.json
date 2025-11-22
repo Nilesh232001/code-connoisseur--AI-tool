@@ -1,0 +1,14 @@
+{
+  "indexName": "code-connoisseur",
+  "llmProvider": "anthropic",
+  "extensions": [
+    "py"
+  ],
+  "excludeDirs": [
+    "node_modules",
+    "dist",
+    "build",
+    ".git"
+  ],
+  "version": "1.0.0"
+}

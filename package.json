@@ -1,0 +1,63 @@
+{
+  "name": "code-connoisseur",
+  "version": "1.0.0-beta.2",
+  "description": "AI-powered code review agent for multiple technology stacks",
+  "main": "index.js",
+  "bin": {
+    "code-connoisseur": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "postinstall": "node scripts/postinstall.js || true",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "code-review",
+    "llm",
+    "openai",
+    "anthropic",
+    "javascript",
+    "typescript",
+    "python",
+    "nodejs",
+    "langchain"
+  ],
+  "author": "Nilesh Patil",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NileshPatil/code-connoisseur.git"
+  },
+  "homepage": "https://github.com/NileshPati/code-connoisseur#readme",
+  "bugs": {
+    "url": "https://github.com/NileshPatil/code-connoisseur/issues"
+  },
+  "dependencies": {
+    "@langchain/anthropic": "^0.3.15",
+    "@langchain/community": "^0.3.34",
+    "@langchain/core": "^0.3.42",
+    "@langchain/openai": "^0.4.4",
+    "@pinecone-database/pinecone": "^5.1.1",
+    "@typescript-eslint/parser": "^8.26.1",
+    "@typescript-eslint/typescript-estree": "^8.26.1",
+    "chalk": "^4.1.2",
+    "commander": "^10.0.1",
+    "diff": "^7.0.0",
+    "dotenv": "^16.4.7",
+    "eslint": "^8.56.0",
+    "esprima": "^4.0.1",
+    "fs-extra": "^11.3.0",
+    "glob": "^11.0.1",
+    "ignore": "^5.3.2",
+    "inquirer": "^8.2.6",
+    "jest": "^29.7.0",
+    "langchain": "^0.3.19",
+    "madge": "^8.0.0",
+    "ora": "^5.4.1",
+    "typescript": "^5.4.4"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
