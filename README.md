@@ -2,7 +2,7 @@
 
 Code Connoisseur is an AI-assisted code review agent designed for Python developers. This repository contains a Python project, providing intelligent code indexing, diff analysis, static analysis, optional AI embeddings, and a lightweight CLI for comprehensive code reviews.
 
-> For reference, a comparison with commercial tools is available in (COMPARISON.md).
+> For reference, a comparison with commercial tools is available in [COMPARISON.md](COMPARISON.md).
 
 ## Features
 
@@ -428,4 +428,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 - **Issues**: Open a GitHub issue for bugs or feature requests
 - **Questions**: Start a discussion in the repository
 - **Contributions**: PRs welcome! Please include tests and documentation
+
 
