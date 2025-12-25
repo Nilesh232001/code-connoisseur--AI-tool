@@ -11,7 +11,7 @@ Research suggests that Code Connoisseur offers significant advantages over leadi
 | Feature | Code Connoisseur | CodeRabbit | DeepCode | Codiga | Bito |
 |---------|------------------|------------|----------|--------|------|
 | **Codebase Specificity** | Trained on your complete codebase | General ML training | Open-source trained | Rule-based analysis | General training |
-| **Tech Stack Support** | Specialized for MEAN, MERN, Java, Python | Multiple languages | Multiple languages | 12+ languages | Multiple languages |
+| **Tech Stack Support** | Specialized for C, C++, MERN, Java, Python | Multiple languages | Multiple languages | 12+ languages | Multiple languages |
 | **Cost Model** | One-time development cost | $15/user/month | Subscription-based | Free tier + paid plans | Subscription-based |
 | **Privacy** | Code stays in-house | Requires repo access | Requires repo access | Requires repo access | Requires repo access |
 | **Customization** | Fully customizable | Limited customization | Limited customization | Customizable rules | Limited customization |
